@@ -24,6 +24,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-A020F0?style=flat-square&logo=bootstrap&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-f56942?style=flat-square&logo=postman&logoColor=white)
+![Mysql](https://img.shields.io/badge/Mysql-6d88f2?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
