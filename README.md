@@ -8,8 +8,7 @@
 
 ## 🚀 About Me
 🎯 MERN Stack Developer with a passion for creating dynamic and user-friendly web applications. <br>
-🌟 Constantly learning and staying updated with the latest technologies and trends. <br>
-📚 Open-source enthusiast and contributor.
+🌟 Constantly learning and staying updated with the latest technologies and trends.
 
 ---
 
