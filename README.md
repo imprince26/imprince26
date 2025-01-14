@@ -46,14 +46,15 @@
 
 ---
 
-## 📊 GitHub Stats
-![imprince26's GitHub stats](https://github-readme-stats.vercel.app/api?username=imprince26&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imprince26&layout=compact&theme=radical)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=imprince26&theme=react&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imprince26&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-## 💡 Fun Fact
-🌟 I believe in lifelong learning and love solving real-world problems through code!
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula)
 
 ---
 
