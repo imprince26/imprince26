@@ -29,6 +29,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 ![MySql](https://img.shields.io/badge/-MySql-000?style=for-the-badge&logo=mysql)
+![mongoose](https://img.shields.io/badge/-mongoose-000?style=for-the-badge&logo=mongoose)
 ![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
@@ -37,6 +38,12 @@
 ![ShadcnUi](https://img.shields.io/badge/-ShadcnUi-000?style=for-the-badge&logo=shadcnui)
 ![reactquery](https://img.shields.io/badge/-reactquery-000?style=for-the-badge&logo=reactquery)
 ![redux](https://img.shields.io/badge/-redux-000?style=for-the-badge&logo=redux)
+![bcryptjs](https://img.shields.io/badge/-bcryptjs-000?style=for-the-badge&logo=bcryptjs)
+![jsonwebtoken](https://img.shields.io/badge/-jsonwebtoken-000?style=for-the-badge&logo=jsonwebtoken)
+![passportjs](https://img.shields.io/badge/-passport.js-000?style=for-the-badge&logo=passport)
+![zod](https://img.shields.io/badge/-zod-000?style=for-the-badge&logo=zod)
+![reacthookform](https://img.shields.io/badge/-reacthookform-000?style=for-the-badge&logo=reacthookform)
+![axios](https://img.shields.io/badge/-axios-000?style=for-the-badge&logo=axios)
 
 ---
 
