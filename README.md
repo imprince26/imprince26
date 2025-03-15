@@ -28,7 +28,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 ![MySql](https://img.shields.io/badge/-MySql-000?style=for-the-badge&logo=mysql)
 ![mongoose](https://img.shields.io/badge/-mongoose-000?style=for-the-badge&logo=mongoose)
-![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
