@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Prince!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=imprince26&color=blueviolet&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/imprince26?label=Followers&style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/imprince26?affiliations=OWNER%2CCOLLABORATOR&style=flat-square)
+<!--![GitHub Followers](https://img.shields.io/github/followers/imprince26?label=Followers&style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/imprince26?affiliations=OWNER%2CCOLLABORATOR&style=flat-square) -->
 
 ---
 
