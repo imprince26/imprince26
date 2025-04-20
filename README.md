@@ -50,9 +50,24 @@
 
 ---
 
-## 📊 GitHub Stats:
+<!-- ## 📊 GitHub Stats:
 [![My GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/imprince26?cardType=level&theme=react&preferLogin=false)](https://git.io/awesome-stats-card)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imprince26&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imprince26&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+
+## 📊 GitHub Stats
+<details>
+  <summary>Click to expand</summary>
+  <br />
+  <div >
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=imprince26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> -->
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/imprince26?cardType=level&theme=tokyonight&preferLogin=false" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imprince26&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imprince26&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  </div>
+</details>
+
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imprince26&custom_title=Prince%27s%20Contribution%20Graph&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&hide_border=false" alt="Activity Graph" />
 
 
 ---
@@ -67,7 +82,7 @@
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 ---
 
