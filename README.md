@@ -44,10 +44,6 @@
 
 ---
 
-<!-- ## 📊 GitHub Stats:
-[![My GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/imprince26?cardType=level&theme=react&preferLogin=false)](https://git.io/awesome-stats-card)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imprince26&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-
 ## 📊 GitHub Stats
 <details>
   <summary>Click to expand</summary>
