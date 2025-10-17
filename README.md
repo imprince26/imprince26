@@ -22,28 +22,8 @@
 
 <br/>
 
-## 🚀 About Me
-
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-```javascript
-const prince = {
-    role: "Full Stack Developer",
-    location: "Gujarat, India",
-    education: "Computer Science & Engineering",
-    currentFocus: ["Mobile Development", "Cloud Technologies"],
-    askMeAbout: ["Web Dev", "App Dev", "Tech"],
-    technologies: {
-        frontEnd: ["React", "Next.js", "React Native"],
-        backEnd: ["Node.js", "Express"],
-        mobile: ["React Native", "Expo"],
-        databases: ["MongoDB", "MySQL"],
-        realtime: ["Socket.io"],
-        styling: ["Tailwind CSS", "NativeWind", "CSS3"],
-        tools: ["Git", "Docker", "Postman", "VS Code"]
-    }
-};
-```
+        
 
 <br clear="right"/>
 
