@@ -18,30 +18,21 @@
 <br/>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-<br/>
+<!-- <br/>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
         
 
-<br clear="right"/>
-
-### 🎯 Current Goals
-
-- Building scalable **full-stack applications**
-- Exploring **React Native** & **Mobile Development**
-- Looking to collaborate on **open source projects**
-- Ask me about **MERN Stack**, **React Native**
-
-<br/>
+<br/> -->
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 <div align="center">
 
@@ -150,7 +141,7 @@
 <br/>
 
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
   
