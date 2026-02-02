@@ -61,13 +61,13 @@
 
 <div align="center">
 
-| | What I Do |
-|:---:|:---|
-| 🏗️ | **Architect** end-to-end web & mobile solutions using MERN Stack |
-| ⚡ | **Build** high-performance React & Next.js applications |
-| 📱 | **Develop** cross-platform mobile apps with React Native & Expo |
-| 🔧 | **Design** RESTful APIs with Node.js, Express & real-time Socket.io |
-| 🗄️ | **Optimize** database architectures with MongoDB, MySQL & Redis |
+| What I Do |
+|:---|
+| **Architect** end-to-end web & mobile solutions using MERN Stack |
+| **Build** high-performance React & Next.js applications |
+| **Develop** cross-platform mobile apps with React Native & Expo |
+| **Design** RESTful APIs with Node.js, Express & real-time Socket.io |
+| **Optimize** database architectures with MongoDB, PostgreSQL & Redis |
 
 </div>
 
